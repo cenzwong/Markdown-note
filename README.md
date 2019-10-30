@@ -16,3 +16,5 @@ Link
 ***
 - [ ] 待辦事項
 - [x] 已完成事項
+***
+> one today is worth two tomorrows
