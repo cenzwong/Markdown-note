@@ -19,12 +19,8 @@ Link
 ***
 > one today is worth two tomorrows
 ***
-+ '+1
-+ '+2
-* '+1
-* '+2
-- '+1
-- '+2
++ +,*,- will do the same job
++ +,*,- will do the same job
 
 1. 有序
 2. 清單
